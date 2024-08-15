@@ -1,1 +1,1508 @@
-# MultiMediaArtist.github.io
+<!DOCTYPE html>
+<html class='no-js' >
+	
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	
+		
+		<title>Christian Feria</title>
+		
+		<!--[if lt IE 9]>
+		  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<link rel='stylesheet' type='text/css' href='bootstrap/css/bootstrap.min.css' >
+		<link rel='stylesheet' type='text/css' href='css/ionicons.min.css' >
+		
+		<link rel='stylesheet' type='text/css' href='css/owl.carousel.css' >
+		<link rel='stylesheet' type='text/css' href='css/owl.theme.css' >
+		<link rel='stylesheet' type='text/css' href='css/owl.transitions.css' >
+		<link rel='stylesheet' type='text/css' href='css/magnific-popup.css' >
+		<link rel='stylesheet' type='text/css' href='css/style.css' >
+		<link rel='stylesheet' type='text/css' href='css/color-default.css' >
+		
+		
+	</head>
+	
+	<body>
+		
+		<!--=============================================================================
+			Preloader
+		===============================================================================-->
+		<div id='preloader' >
+			<div class='loader' >
+				<img src='img/load.gif' alt='symp' >
+			</div>
+		</div>
+		
+		
+		
+		<!--=============================================================================
+			Main Wrapper
+		===============================================================================-->
+		<div id='wrapper' >
+			
+			<!--=============================================================================
+				Front Section
+			===============================================================================-->
+			<section class='front-section' >
+				
+				<div class='container' >
+					
+					
+					<div class='transition-mask' ></div>
+					
+					
+					<div class='front-person-img' >
+						
+						<!--person's image-->
+						<img src='img/man1.png' alt='Symp' >
+						<!--/person's image-->
+						
+					</div>
+					
+					<!--person's titles-->
+					<div class='front-person-titles' >
+						
+						<!--title1-->
+						<span class='t1' >
+							Designer
+						</span>
+						<!--/title1-->
+						
+						<!--title2-->
+						<span class='t2' >
+							Film Maker
+						</span>
+						<!--/title2-->
+						
+						<!--title3-->
+						<span class='t3' >
+							Video Editor
+						</span>
+						<!--/title3-->
+						
+					</div>
+					<!--/person's titles-->
+					
+					<nav class='front-person-links' >
+						
+						<!--
+							navigation links, data-section attribute points towards the section with id to be opened. 
+						-->
+						
+						<ul>
+							
+							<li>
+								<a href='#' data-section='about' >About Me</a>
+							</li>
+							
+							<li>
+								<a href='#' data-section='resume' >Resume</a>
+							</li>
+							
+							<li>
+								<a href='#' data-section='services' >Services</a>
+							</li>
+							
+							<li>
+								<a href='#' data-section='portfolio' >My Work</a>
+							</li>
+
+							<li>
+								<a href='#' data-section='contact' >Contact</a>
+							</li>
+							
+						</ul>
+						
+					</nav>
+					
+					
+					
+					<div class='front-heading text-center' >
+						
+						<h2>
+							Christian Feria
+						</h2>
+						
+					
+						
+					</div>
+					
+					
+				</div>
+				
+			</section>
+			<!--=============================================================================
+				/Front Section
+			===============================================================================-->
+		
+			<!--=============================================================================
+				About Section
+			===============================================================================-->
+			<section id='about' class='about-section section' >
+				
+				<div class='basic-info section-block' >
+					
+					<div class='container' >
+					
+						<div class='section-header text-center' >
+							
+							<h2>Basic Info About Me</h2>
+							
+							<!--divider-->
+							<div class='divider-draft center' ></div>
+							<!--/divider-->
+							
+							
+						</div>
+						
+						<div class='row' >
+							
+							<div class='col-md-4' >
+								<div class='about-person-img' >
+									
+									<img src='img/man2.jpeg' alt='symp'>
+									
+								</div>
+							
+							</div>
+							
+							
+							<div class='col-md-8 about-info' >
+								
+								
+								
+								
+								<p>
+									 I’m Christian C. Feria, 25 year of age and from 4349 L. Bernardino, Valenzuela City land of Philippines and also a  college Graduate from ACLC College Of Iriga inc. Taking up Bachelor of Science in Computer Science(BSCS) Batch 2022, Good at photography and also at film making and I'm good at editing, Designing and a brand ambassador like invicta watch and etc.
+								</p>
+								
+								<div class='clearfix' ></div>
+								
+								
+								<ul class='info-list' >
+									
+									<li>
+										<div class='inner' >
+											<h4>Name</h4>
+											<p>Christian Feria</p>
+										</div>
+									</li>
+									<li>
+										<div class='inner' >
+											<h4>Age</h4>
+											<p>25 Years</p>
+										</div>
+									</li>
+									<li>
+										<div class='inner' >
+											<h4>Website</h4>
+											<p>chrishots.github.io/</p>
+										</div>
+									</li>
+									<li>
+										<div class='inner' >
+											<h4>Hometown</h4>
+											<p>Iriga City</p>
+										</div>
+									</li>
+									
+									
+									
+								</ul>
+								
+								<a href='https://www.facebook.com/ChristianFeria023' class='symp-btn' >Hire Me For Work</a>
+
+								
+							</div>
+						
+							
+						
+						</div>
+						
+						
+						
+						
+					</div>
+					
+					
+				</div>
+				
+				<div class='about-icons section-block' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-ios-lightbulb' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Creative</h4>
+										
+										<p>
+											Love to Explore new things<br>
+											that have never been explore.
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+							
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-trophy' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Winner</h4>
+										
+										<p>
+											Best Strategy Makes A Winner.
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+							
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-ios-glasses' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Smart</h4>
+										
+										<p>
+											Explore To Gain More Knowlegde.
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+							
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-ios-bolt' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Energetic</h4>
+										
+										<p>
+											Always Ready To Work.
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-help-buoy' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Helper</h4>
+										
+										<p>
+											Always Glad To Help Without Getting Any Reward.
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+							
+							<div class='col-md-2' >
+								<div class='service' >
+									
+									<div class='icon' >
+										<i class='ion-ios-pulse-strong' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Healthy</h4>
+										
+										<p>
+											Eat Vegetables To Keep Your Body Healthy
+										</p>
+										
+									</div>
+									
+								</div>
+							</div>
+							
+							
+							
+							
+						</div>
+						
+						
+					</div>
+				</div>
+				
+				<div class='funfacts-block section-block' data-stellar-background-ratio='.2' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-md-3 col-sm-6 funfact' >
+								<div class='content' >
+									<h4>50</h4>
+									<p>Clients</p>
+								</div>
+							</div>
+							
+							<div class='col-md-3 col-sm-6 funfact' >
+								<div class='content' >
+									<h4>50</h4>
+									<p>Happy Customers</p>
+								</div>
+							</div>
+							
+							<div class='col-md-3 col-sm-6 funfact' >
+								<div class='content' >
+									<h4>30</h4>
+									<p>Projects Done</p>
+								</div>
+							</div>
+							
+							<div class='col-md-3 col-sm-6 funfact' >
+								<div class='content' >
+									<h4>200</h4>
+									<p>Games Played</p>
+								</div>
+							</div>
+							
+						</div>
+						
+					</div>
+					
+				</div>
+				
+				<div class='testimonials-block section-block' >
+					<div class='container' >
+					
+						<div class='section-header text-center' >
+							
+							<h2 class='animate text-over-block' >My Goals</h2>
+							
+							
+							<!--divider-->
+							<div class='divider-draft center' ></div>
+							<!--/divider-->
+							
+							
+						</div>
+						
+						<div class='row' >
+							
+							<div class='col-md-8 col-md-offset-2' >
+								
+								<div class='testimonials-slider' >
+									
+									<div class='testimonial' >
+										<p>
+											Make A Saving Through Bank And Help My Family In Risk Situation.
+										</p>
+										
+										<div class='author' >
+										</div>
+									</div>
+									
+									<div class='testimonial' >
+										<p>
+											Build A Business To Make Some Work After Retiring.
+										</p>
+										
+										<div class='author' >
+										</div>
+									</div>
+									
+									
+									
+									
+								</div>
+								
+							</div>
+							
+						</div>
+					
+					</div>
+				</div>
+				
+				<div class='footer bg-lightgray section-block' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-xs-6 text-left' >
+								<h4>Christian Feria</h4>
+							</div>
+							
+							<div class='col-xs-6 text-right' >
+								<ul class='footer-social' >
+									<li>
+										<a href='https://www.facebook.com/ChristianFeria023' >
+											<i class='ion-social-facebook' ></i>
+										</a>
+									</li>
+									<li>
+										<a href='https://www.instagram.com/christianferia023/?hl=en' >
+											<i class='ion-social-instagram' ></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+						
+						
+					</div>
+					
+				</div>
+				
+				
+			</section>
+			<!--=============================================================================
+				/About Section
+			===============================================================================-->
+			
+			<!--=============================================================================
+				Resume Section
+			===============================================================================-->
+			<section id='resume' class='resume-section section' >
+				
+				<div class='container' >
+					<div class='row' >
+						<div class='col-md-6 col-md-offset-3' >
+							<div class='section-header text-center' >
+								
+								<h2 class='animate text-over-block' >My Resume</h2>
+								
+								<!--divider-->
+								<div class='divider-draft center' ></div>
+								<!--/divider-->
+								
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='timeline-block section-block' >
+					<div class='container' >
+						<ul class='timeline' >
+							
+							<li class='timeline-header' >
+								<h4>Education</h4>
+							</li>
+							
+								<li class='inverse' >
+								
+								<div class='timeline-desc' >
+									
+									<h4>2018-2022</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Tertiary</h4>
+									
+									<p>
+										Bachelor of Science in Computer Science (BSCS)<br>
+										ACLC College Of Iriga inc.<br>
+										2F Jasaca Bldg., Hi-way 1, San Miguel, Iriga City
+
+									</p>
+									
+								</div>
+								
+							</li>
+
+							<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>2016-2018</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Vocational / Technical</h4>								
+									<p>
+										Accountancy, Business And Management (ABM)<br>
+										ACLC College Of Iriga inc.<br>
+										2F Jasaca Bldg., Hi-way 1, San Miguel, Iriga City
+
+									</p>
+									
+								</div>
+								
+							</li>
+							
+							<li class='inverse' >
+								
+								<div class='timeline-desc' >
+									
+									<h4>2012-2016</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Secondary School</h4>
+									
+									<p>
+										Zeferino Arroyo High School<br>
+										San Agustin, Iriga City
+
+									</p>
+									
+								</div>
+								
+							</li>
+							
+							<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>2006-2012</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Primary School</h4>
+									<p>
+										Iriga Central School<br>
+										San Nicolas, Iriga City
+									</p>
+									
+								</div>
+								
+							</li>
+							
+							
+							<li class='timeline-header' >
+								<h4>Training</h4>
+							</li>
+							
+							
+							<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>Oct.13 - Nov.12 2021</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>On-The-Job-Training(OJT)</h4>
+									
+									<p>
+										LGU-Barangay San Agustin<br>
+										San Agustin, Iriga City
+									</p>
+									
+								</div>
+								
+							</li>
+							
+							<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>Oct.8 - Dec.14 2018</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Work Emersion</h4>
+									<p>
+										City Civil Registrar’s Office<br>
+										LocalGovernmentUnit(LGUIriga)
+									</p>
+									
+								</div>
+
+								<li class='timeline-header' >
+								<h4>Freelance Experience</h4>
+								</li>
+
+								<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>Mar.29, 2020 - Present</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Photography<br>
+										Videography/Editor</h4>
+									
+									
+								</div>
+								
+							</li>
+
+
+								<li class='timeline-header' >
+								<h4>Work Experience</h4>
+							</li>
+
+							<li>
+								
+								<div class='timeline-desc' >
+									
+									<h4>Nov.18 2022 - May 18 2023</h4>
+									
+								</div>
+								
+								<div class='timeline-content' >
+									
+									<h4>Graphics Designer</h4>
+									
+									<p>
+										Gaisano Capital Iriga<br>
+										San Roque, Iriga City
+									</p>
+									
+								</div>
+								
+							</li>
+							</li>
+							
+							
+						</ul>
+					</div>
+				</div>
+				
+				<div class='hobbies-block bg-lightgray section-block' >
+					<div class='container' >
+						
+						<div class='section-header text-center' >
+							<h2 class='animate text-over-block' >My Hobbies</h2>
+							<!--divider-->
+							<div class='divider-draft center' ></div>
+							<!--/divider-->
+						</div>
+						
+						<div class='row' >
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-ios-game-controller-b' ></i>
+									</div>
+									
+									<h4>Gaming</h4>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-ios-book' ></i>
+									</div>
+									
+									<h4>Reading</h4>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-videocamera' ></i>
+									</div>
+									
+									<h4>Filming</h4>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-ios-musical-notes' ></i>
+									</div>
+									
+									<h4>Music</h4>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-ios-film' ></i>
+									</div>
+									
+									<h4>Film Making</h4>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-2 col-sm-4 col-xs-6' >
+								
+								<div class='hobby' >
+									
+									<div class='icon' >
+										<i class='ion-ios-camera' ></i>
+									</div>
+									
+									<h4>Photography</h4>
+									
+								</div>
+								
+							</div>
+							
+							
+							
+						</div>
+						
+						
+						
+					</div>
+				</div>
+				
+				<div class='skills-block section-block' >
+					
+					<div class='container' >
+					
+						<div class='section-header text-center' >
+							<h2 class='animate text-over-block' >My Skills</h2>
+							
+							<!--divider-->
+							<div class='divider-draft center' ></div>
+							<!--/divider-->
+							
+						</div>
+						
+						
+						<div class='row' >
+							
+							<div class='col-md-6' >
+								
+								<div class='skill' >
+									
+									<h4>Film Making</h4>
+									
+									<div class='skill-bar' data-percent='95' >
+										<div class='bar' >
+											<div class='percent' >95%</div>
+										</div>
+									</div>
+									
+								</div>
+								
+								<div class='skill' >
+									
+									<h4>Photography</h4>
+									
+									<div class='skill-bar' data-percent='90' >
+										<div class='bar' >
+											<div class='percent' >90%</div>
+										</div>
+									</div>
+									
+								</div>
+								
+								<div class='skill' >
+									
+									<h4>Photoshop</h4>
+									
+									<div class='skill-bar' data-percent='90' >
+										<div class='bar' >
+											<div class='percent' >90%</div>
+										</div>
+									</div>
+									
+								</div>
+								
+								
+								
+							</div>
+							
+							<div class='col-md-6' >
+								
+								<div class='skill' >
+									
+									<h4>HTML/CSS</h4>
+									
+									<div class='skill-bar' data-percent='80' >
+										<div class='bar' >
+											<div class='percent' >80%</div>
+										</div>
+									</div>
+									
+								</div>
+								
+								<div class='skill' >
+									
+									<h4>PHP</h4>
+									
+									<div class='skill-bar' data-percent='85' >
+										<div class='bar' >
+											<div class='percent' >85%</div>
+										</div>
+									</div>
+									
+								</div>
+								
+								<div class='skill' >
+									
+									<h4>Editing</h4>
+									
+									<div class='skill-bar' data-percent='95' >
+										<div class='bar' >
+											<div class='percent' >95%</div>
+										</div
+									<div>
+									
+								</div>
+								
+								
+								
+							</div>
+							
+							
+							
+						</div>
+						
+					</div>
+					
+				</div>
+				
+				<div class='footer bg-lightgray section-block' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-xs-6 text-left' >
+								<h4>Christian Feria</h4>
+							</div>
+							
+							<div class='col-xs-6 text-right' >
+								<ul class='footer-social' >
+									<li>
+										<a href='https://www.facebook.com/ChristianFeria023' >
+											<i class='ion-social-facebook' ></i>
+										</a>
+									</li>
+									<li>
+										<a href='https://www.instagram.com/christianferia023/?hl=en' >
+											<i class='ion-social-instagram' ></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+						
+						
+					</div>
+					
+				</div>
+				
+				
+			</section>
+			<!--=============================================================================
+				/Resume Section
+			===============================================================================-->
+
+			<!--=============================================================================
+				Services Section
+			===============================================================================-->
+<section id='services' class='services-section section' >
+				
+			<div class='container' >
+					<div class='row' >
+						<div class='col-md-6 col-md-offset-3' >
+							<div class='section-header main-title text-center' >
+								
+								<h2 class='animate text-over-block' >My Services</h2>
+								
+								<!--divider-->
+								<div class='divider-draft center' ></div>
+								<!--/divider-->
+								
+								<p>
+									I provide <b>high quality</b> services. My services that I provide are listed below. Hope you will like them.
+								</p>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='services-block section-block' >
+					
+						<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-md-3' >
+								<div class='service' >
+									<div class='icon' >
+										<i class='ion-ios-camera' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Photography</h4>
+										
+										<p>
+											Model And Nature Photography.
+										</p>
+										
+									</div>
+								</div>
+							</div>
+							
+							<div class='col-md-3' >
+								<div class='service' >
+									<div class='icon' >
+										<i class='ion-code' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Coding</h4>
+										
+										<p>
+											Web Design.
+										</p>
+										
+									</div>
+								</div>
+							</div>
+							
+							<div class='col-md-3' >
+								<div class='service' >
+									<div class='icon' >
+										<i class='ion-ios-lightbulb' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Creativity</h4>
+										
+										<p>
+											Lots Of Ideas To Create And Publish.
+										</p>
+										
+									</div>
+								</div>
+							</div>
+							
+							<div class='col-md-3' >
+								<div class='service' >
+									<div class='icon' >
+										<i class='ion-ios-film' ></i>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Film Maker</h4>
+										
+										<p>
+											Short Films And Advertizing Films
+										</p>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						
+					</div>
+					
+					</div>
+				
+				
+				
+					<div class='process-block bg-lightgray section-block' >
+					<div class='container' >
+						
+						<div class='section-header text-center' >
+							<h2>Work Process</h2>
+							<!--divider-->
+							<div class='divider-draft center' ></div>
+							<!--/divider-->
+						</div>
+						
+						<div class='row' >
+							
+							<div class='col-md-3' >
+								
+								<div class='process' >
+									
+									<div class='number' >
+										<span>01</span>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Design</h4>
+										
+										<p>
+											Start From Scratch And Brainstorm.
+										</p>
+										
+									</div>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-3' >
+								
+								<div class='process' >
+									
+									<div class='number' >
+										<span>02</span>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Develop</h4>
+										
+										<p>
+											Combine And Build The App. 
+										</p>
+										
+									</div>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-3' >
+								
+								<div class='process' >
+									
+									<div class='number' >
+										<span>03</span>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Publish</h4>
+										
+										<p>
+											Publish To Public And Make The People Happy.
+										</p>
+										
+									</div>
+									
+								</div>
+								
+							</div>
+							
+							<div class='col-md-3' >
+								
+								<div class='process last' >
+									
+									<div class='number' >
+										<span>04</span>
+									</div>
+									
+									<div class='content' >
+										
+										<h4>Enjoy</h4>
+										
+										<p>
+											Thank You For Trusting My Work.
+										</p>
+										
+									</div>
+									
+								</div>
+								
+							</div>
+							
+							</div>
+							
+						</div>
+						
+						
+						</div>
+				
+				
+				
+					<div class='footer bg-lightgray section-block' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-xs-6 text-left' >
+								<h4>Christian Feria</h4>
+							</div>
+							
+							<div class='col-xs-6 text-right' >
+								<ul class='footer-social' >
+									<li>
+										<a href='https://www.facebook.com/ChristianFeria023' >
+											<i class='ion-social-facebook' ></i>
+										</a>
+									</li>
+									<li>
+										<a href='https://www.instagram.com/christianferia023/?hl=en' >
+											<i class='ion-social-instagram' ></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+					
+						
+					</div>
+					
+				</div>
+			</section>
+			<!--=============================================================================
+				/Services Section
+			===============================================================================-->
+			
+			
+			<!--=============================================================================
+				Portfolio Section
+			===============================================================================-->
+			<section id='portfolio' class='portfolio-section section' >
+				
+				<div class="portfolio-block section-block">
+
+					<div class='container' >
+					
+						<div class='row' >
+							<div class='col-md-6 col-md-offset-3' >
+								
+								<div class='section-header text-center' >
+								
+									<h2 class='animate text-over-block' >My Work</h2>
+									
+									<!--divider-->
+									<div class='divider-draft center' ></div>
+									<!--/divider-->
+									
+									<p>
+										Check out my works.
+									</p>
+								
+								</div>
+								
+							</div>
+						</div>
+						
+						
+
+					<div id='portfolio-grid' class='portfolio-items' >
+							
+						<div class='item' data-groups='["all","web","photography"]' >
+							
+							<div class='inner' >
+									
+								<img alt='symp' src='img/portfolio/Graphic Design.png' >
+									
+									<div class='caption' >
+										
+										<div class='caption-inner' >
+										
+											<h4>Graphic Design Output</h4>
+											
+											<ul class='links' >
+												
+												<li>
+													<a href='https://drive.google.com/drive/folders/1sIWoHeAVpvpwRDP0H-VQFQXkZWJUL84w?usp=sharing' >
+														<i class='ion-ios-plus-empty' ></i>
+													</a>
+												</li>
+												
+												<li>
+													<a href='img/portfolio/Graphic Design.png' class='image-link' >
+														<i class='ion-ios-search' ></i>
+													</a>
+												</li>
+												
+											</ul>
+										
+										</div>
+										
+										
+									</div>
+									
+								</div>
+							
+							</div>
+													
+						</div>
+						
+					<div id='portfolio-grid' class='portfolio-items' >
+							
+						<div class='item' data-groups='["all","web","photography"]' >
+							
+							<div class='inner' >
+									
+								<img alt='symp' src='img/portfolio/MultiMedia.png' >
+									
+									<div class='caption' >
+										
+										<div class='caption-inner' >
+										
+											<h4>MultiMedia Projects</h4>
+											
+											<ul class='links' >
+												
+												<li>
+													<a href='https://drive.google.com/drive/folders/14qGF1b5lvxXWooQkhP54484dNhP2wG7L?usp=sharing' >
+														<i class='ion-ios-plus-empty' ></i>
+													</a>
+												</li>
+												
+												<li>
+													<a href='img/portfolio/MultiMedia.png' class='image-link' >
+														<i class='ion-ios-search' ></i>
+													</a>
+												</li>
+												
+											</ul>
+										
+										</div>
+										
+										
+									</div>
+									
+								</div>
+							
+							</div>
+													
+						</div>
+						
+
+					</div>
+					
+					</div>
+
+					
+			
+			</section>
+			
+			<!--=============================================================================
+				Contact Section
+			===============================================================================-->
+			<section id='contact' class='contact-section section' >
+				
+				<div class='contact-block section-block' >
+					<div class='container' >
+						<div class='row' >
+							<div class='col-md-6 col-md-offset-3' >
+							
+								<div class='section-header text-center' >
+									<h2 class='animate text-over-block' >Contact Me</h2>
+									<!--divider-->
+									<div class='divider-draft center' ></div>
+									<!--/divider-->
+									<p>
+										I'm available for freelancing. If you want something to be built or just to say hi, feel free to shoot me a message.
+									</p>
+								</div>
+							
+							</div>
+						</div>
+						
+						<div class='row' >
+							<div class='col-md-8 col-md-offset-2' >
+								
+								<form id='contact-form' class='contact-form' action='mail.php' method='post' data-toggle='validator' >
+									
+									<div id='contact-form-result' ></div>
+									
+									<div class='row' >
+										
+										<div class='col-md-6' >
+											
+											<div class='form-group' >
+												<input type='text' class='form-control' placeholder='Name' required>
+												
+												<div class='help-block with-errors' ></div>
+											</div>
+										
+										</div>
+										
+										<div class='col-md-6' >
+											<div class='form-group' >
+												<input type='email' class='form-control' placeholder='Email' required>
+												
+												<div class='help-block with-errors' ></div>
+							
+											</div>
+										</div>
+										
+									</div>
+									
+									<div class='row' >
+										
+										<div class='col-md-6' >
+											<div class='form-group' >
+												<input type='text' class='form-control' placeholder='Phone' required>
+												<div class='help-block with-errors' ></div>
+												
+											</div>
+										</div>
+										
+										<div class='col-md-6' >
+											<div class='form-group' >
+												<input type='text' class='form-control' placeholder='Website' required>
+												<div class='help-block with-errors' ></div>
+												
+											</div>
+										</div>
+										
+									</div>
+									
+									<div class='form-group' >
+										<textarea rows='5' class='form-control' placeholder='Message' required></textarea>
+										<div class='help-block with-errors' ></div>
+									</div>
+									
+									<div class='form-group text-center' >
+										<button type='submit' class='symp-btn' >Send Message</button>
+									</div>
+									
+									
+								</form>
+							</div>
+						</div>
+
+						
+					</div>
+				</div>
+			
+				
+				<div class='footer bg-lightgray section-block' >
+					
+					<div class='container' >
+						
+						<div class='row' >
+							
+							<div class='col-xs-6 text-left' >
+								<h4>Christian Feria</h4>
+							</div>
+							
+							<div class='col-xs-6 text-right' >
+								<ul class='footer-social' >
+									<li>
+										<a href='https://www.facebook.com/ChristianFeria023' >
+											<i class='ion-social-facebook' ></i>
+										</a>
+									</li>
+									<li>
+										<a href='https://www.instagram.com/christianferia023/?hl=en' >
+											<i class='ion-social-instagram' ></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+						
+						
+					</div>
+					
+				</div>
+				
+				
+			</section>
+			<!--=============================================================================
+				/Contact Section
+			===============================================================================-->
+			
+			
+			<!--close button-->
+			<div class='close-btn' >
+				<span></span>
+				<span></span>
+			</div>
+			<!--/close button-->
+			
+			
+		</div>
+		<!--=============================================================================
+			/Main Wrapper
+		===============================================================================-->
+		
+		
+		<!--=============================================================================
+			JavaScript Files
+		===============================================================================-->
+		<script src='js/jquery.min.js' ></script>
+		<script src='js/jquery.stellar.min.js' ></script>
+		<script src='js/modernizr.js' ></script>
+		<script src='js/owl.carousel.min.js' ></script>
+		<script src='js/jquery.shuffle.min.js' ></script>
+		<script src='js/jquery.magnific-popup.min.js' ></script>
+		<script src='js/validator.min.js' ></script>
+		<script src='js/smoothscroll.js' ></script>
+		<script src='js/script.js' ></script>
+		
+		
+		
+	</body>
+	
+</html>
